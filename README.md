@@ -1,10 +1,10 @@
-# zaps_shops
+# Shops
 
 https://www.youtube.com/watch?v=p57EEcWHWtE
 
 A resource for ESX & QBCore, featuring Ox_Lib menus for shops.
 
-Need support? join https://discord.gg/cfxdev
+[![Discord](https://img.shields.io/badge/Discord-Support-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/Uwg95JfwYT) 
 
 ## Features
 
@@ -16,5 +16,5 @@ Need support? join https://discord.gg/cfxdev
 
 1. Clone this repository into your server's resources folder.
    ```bash
-   git clone https://github.com/Zaps6000/zaps_shops.git
-2. Ensure zaps_shops inside server.cfg
+   git clone https://github.com/ScrachStack/scratch_shops.git
+2. Ensure scratch_shops inside server.cfg
